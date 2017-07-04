@@ -1,3 +1,3 @@
 # alloraspengo
 
-This is a demo versione
+This is a demo version
